@@ -1,0 +1,31 @@
+<event timestamp="2025-11-21 21:13:19" command="START_SESSION"/>
+<event timestamp="2025-11-21 21:13:56" command="START_SESSION"/>
+<event timestamp="2025-11-21 21:14:06" command="ls"/>
+<event timestamp="2025-11-21 23:49:10" command="START_SESSION"/>
+<event timestamp="2025-11-21 23:49:11" command="ls"/>
+<event timestamp="2025-11-21 23:49:11" command="cd /home/user"/>
+<event timestamp="2025-11-21 23:49:12" command="ls -l"/>
+<event timestamp="2025-11-21 23:49:12" command="echo "Скрипт выполнен успешно!""/>
+<event timestamp="2025-11-21 23:57:14" command="START_SESSION"/>
+<event timestamp="2025-11-21 23:57:25" command="START_SESSION"/>
+<event timestamp="2025-11-21 23:57:26" command="ls"/>
+<event timestamp="2025-11-21 23:57:27" command="cd /home/user"/>
+<event timestamp="2025-11-21 23:57:27" command="ls -l"/>
+<event timestamp="2025-11-21 23:57:28" command="echo "Скрипт выполнен успешно!""/>
+<event timestamp="2025-11-21 23:57:40" command="START_SESSION"/>
+<event timestamp="2025-11-21 23:57:41" command="ls"/>
+<event timestamp="2025-11-21 23:57:41" command="cd /home/user"/>
+<event timestamp="2025-11-21 23:57:42" command="ls -l"/>
+<event timestamp="2025-11-21 23:57:42" command="echo "Скрипт выполнен успешно!""/>
+<event timestamp="2025-11-21 23:58:23" command="START_SESSION"/>
+<event timestamp="2025-11-21 23:58:23" command="ls"/>
+<event timestamp="2025-11-21 23:58:24" command="cd /home/user"/>
+<event timestamp="2025-11-21 23:58:24" command="ls -l"/>
+<event timestamp="2025-11-21 23:58:25" command="echo "Скрипт выполнен успешно!""/>
+<event timestamp="2025-11-22 00:01:23" command="START_SESSION"/>
+<event timestamp="2025-11-22 00:02:37" command="START_SESSION"/>
+<event timestamp="2025-11-22 00:04:28" command="START_SESSION"/>
+<event timestamp="2025-11-22 00:04:29" command="ls"/>
+<event timestamp="2025-11-22 00:04:29" command="cd /home/user"/>
+<event timestamp="2025-11-22 00:04:30" command="ls -l"/>
+<event timestamp="2025-11-22 00:04:30" command="echo "Скрипт выполнен успешно!""/>

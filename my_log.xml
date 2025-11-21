@@ -1,0 +1,7 @@
+<event timestamp="2025-11-21 23:47:55" command="START_SESSION"/>
+<event timestamp="2025-11-21 23:47:55" command="ls"/>
+<event timestamp="2025-11-21 23:47:56" command="cd /home/user"/>
+<event timestamp="2025-11-21 23:47:56" command="ls -l"/>
+<event timestamp="2025-11-21 23:47:57" command="echo "Скрипт выполнен успешно!""/>
+<event timestamp="2025-11-21 23:49:02" command="ls"/>
+<event timestamp="2025-11-21 23:49:05" command="exit"/>
